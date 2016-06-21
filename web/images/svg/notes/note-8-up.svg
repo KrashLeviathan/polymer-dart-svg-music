@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28.04183mm"
+   height="51.37421mm"
+   viewBox="0 0 99.360815 182.0346"
+   id="svg3601"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="note-eighth-up.svg">
+  <defs
+     id="defs3603" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="178.96612"
+     inkscape:cy="-48.982701"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3606">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-196.03388,-301.34491)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#131516;fill-rule:evenodd;stroke:#131516;stroke-width:0.27168819;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="path25"
+       d="m 245.80453,301.48075 4.33177,0 c 1.08294,6.90699 2.43662,12.7234 4.24152,17.44924 1.71465,4.63495 3.79029,8.63374 6.04642,11.99635 2.34637,3.36261 5.86593,7.63404 10.55868,12.90517 4.69274,5.27112 8.39279,9.72431 11.28063,13.45045 8.66354,11.17842 12.9953,22.90213 12.9953,35.08024 0,12.54164 -5.23422,27.80973 -15.88314,45.80426 l -2.88784,0 c 1.35368,-3.18085 2.97809,-6.81611 4.78299,-10.90578 1.71466,-4.18054 3.24882,-7.90668 4.51225,-11.2693 1.17319,-3.36261 2.16589,-6.72523 2.88785,-10.08784 0.63172,-3.36261 0.99269,-6.63434 0.99269,-9.90608 0,-5.18024 -0.99269,-10.36048 -3.06833,-15.54073 -2.07564,-5.27112 -5.05373,-10.08784 -8.75377,-14.54103 -3.7903,-4.45319 -8.03182,-7.99757 -12.81481,-10.81489 -4.78299,-2.72645 -9.74647,-4.27143 -14.89044,-4.54408 l 0,102.87781 c 0,5.81642 -1.71466,11.08754 -5.32447,15.63161 -3.51956,4.54408 -8.12206,8.08845 -13.71725,10.54225 -5.50495,2.4538 -11.0099,3.63526 -16.51486,3.63526 -5.23421,0 -9.65622,-1.36322 -13.17578,-3.99878 -3.42932,-2.63557 -5.23422,-6.54347 -5.23422,-11.63283 0,-5.36201 1.8049,-10.36049 5.32446,-14.99544 3.51956,-4.54407 8.03182,-8.17933 13.44652,-10.81489 5.41471,-2.63557 10.64893,-3.99879 15.70265,-3.99879 7.03912,0 12.09285,1.36322 15.16118,4.18055 l 0,-92.88085 0,-47.62188 z"
+       class="fil1 str1" />
+  </g>
+</svg>

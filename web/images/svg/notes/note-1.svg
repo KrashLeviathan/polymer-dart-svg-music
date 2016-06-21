@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21.063276mm"
+   height="13.003654mm"
+   viewBox="0 0 74.633656 46.075937"
+   id="svg3422"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="whole-note.svg">
+  <defs
+     id="defs3424" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-250.54032"
+     inkscape:cy="-199.81917"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3427">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-625.54032,-286.4671)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#131516;fill-rule:evenodd;stroke:#131516;stroke-width:0.27168819;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="path21"
+       d="m 648.23743,305.50628 c 0.36099,6.72523 2.34638,12.35988 5.95618,16.72219 3.60981,4.36231 7.94157,6.54346 12.9953,6.54346 3.88054,-0.45441 6.58789,-1.72675 8.12206,-3.9079 1.44392,-2.18116 2.16588,-5.99818 2.16588,-11.36018 -0.54147,-6.907 -2.52686,-12.54164 -6.13667,-16.81307 -3.6098,-4.27143 -7.94157,-6.45259 -13.17578,-6.45259 -3.60981,0.63617 -6.13667,1.90851 -7.67084,3.99879 -1.53416,1.99939 -2.25613,5.81641 -2.25613,11.2693 z m -22.56127,3.81702 c 0,-5.54377 1.98539,-9.99696 6.04642,-13.35958 4.06103,-3.45349 8.93427,-5.81641 14.61971,-7.27051 5.59519,-1.36322 10.82941,-2.09027 15.6124,-2.09027 5.23422,0 10.73917,0.72705 16.42461,2.09027 5.77569,1.36322 10.73917,3.81702 14.98069,7.17963 4.24152,3.36262 6.49765,7.90669 6.67814,13.45046 0,5.54377 -1.9854,10.08784 -6.04642,13.54134 -4.06103,3.45349 -8.93427,5.90729 -14.52947,7.36139 -5.68544,1.45411 -11.0099,2.18116 -16.06363,2.18116 -5.4147,0 -10.91966,-0.72705 -16.69534,-2.09027 -5.68544,-1.45411 -10.55868,-3.81703 -14.70996,-7.27052 -4.06102,-3.4535 -6.22691,-7.99757 -6.31715,-13.7231 z"
+       class="fil1 str1" />
+  </g>
+</svg>

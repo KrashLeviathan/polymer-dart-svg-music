@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15.205368mm"
+   height="51.887188mm"
+   viewBox="0 0 53.877288 183.85224"
+   id="svg3464"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="half-note-up.svg">
+  <defs
+     id="defs3466" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-58.061356"
+     inkscape:cy="-68.073881"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3469">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-433.06136,-280.43609)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#131516;fill-rule:evenodd;stroke:#131516;stroke-width:0.27168819;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="path19"
+       d="m 482.47103,419.07528 0,-138.50335 4.33177,0 0,154.49848 c -0.0902,4.9076 -1.9854,9.54255 -5.68545,13.99575 -3.70004,4.45319 -8.12205,8.08845 -13.44652,10.81489 -5.23421,2.63556 -10.19769,4.08967 -14.8002,4.27143 -4.78299,0 -8.57328,-0.63617 -11.46112,-1.81763 -2.7976,-1.18146 -4.87324,-3.18085 -6.22691,-6.08906 -1.26344,-2.9082 -1.9854,-6.99787 -1.9854,-12.17811 0.18049,-5.54377 2.07564,-10.54225 5.77569,-14.99544 3.79029,-4.36232 8.48304,-7.81581 14.07824,-10.36049 5.59519,-2.4538 11.10015,-3.63526 16.42461,-3.63526 5.14397,0 9.47573,1.27234 12.99529,3.99879 z m -32.30775,16.72218 c -1.89514,1.18146 -4.33176,3.54438 -7.30985,7.08876 -2.97809,3.54437 -4.6025,6.54346 -4.78299,9.08814 0.36098,2.54468 1.98539,4.08967 4.69274,4.72584 2.70736,0 6.22692,-0.90882 10.55868,-2.72644 4.24152,-1.72675 8.3928,-4.18055 12.36358,-7.27052 2.61711,-1.72675 5.95618,-4.81672 9.92696,-9.17903 3.97079,-4.36231 5.95618,-7.90669 5.95618,-10.63313 0,-2.54468 -1.26343,-4.08966 -3.97079,-4.72583 -6.58789,0 -15.70264,4.54407 -27.43451,13.63221 z"
+       class="fil1 str1" />
+  </g>
+</svg>

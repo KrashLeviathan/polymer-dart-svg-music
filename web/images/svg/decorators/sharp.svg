@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.8440018"
+   height="18.992558"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sharp.svg">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview30"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="12.686353"
+     inkscape:cy="34.593896"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     style="fill:#000000"
+     id="sharp"
+     transform="translate(-2.313647,-45.601338)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path28"
+       d="m 4.219645,57.751118 0,-4.70401 2,-0.552002 0,4.680023 -2,0.575989 z m 3.938004,-1.138 -1.375,0.394012 0,-4.680023 1.375,-0.384003 0,-1.944 -1.375,0.384003 0,-4.781769 -0.563004,0 0,4.926788 -2,0.574982 0,-4.64975 -0.530998,0 0,4.826752 -1.375,0.38501 0,1.947998 1.375,-0.384003 0,4.67099 -1.375,0.383026 0,1.939972 1.375,-0.383972 0,4.754765 0.530998,0 0,-4.924778 2,-0.549988 0,4.625763 0.563004,0 0,-4.799774 1.375,-0.38501 0,-1.946991 z" />
+  </g>
+</svg>
