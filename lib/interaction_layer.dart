@@ -6,6 +6,7 @@ library svg_polymer_playground.lib.interaction_layer;
 import 'dart:html';
 import 'package:polymer/polymer.dart';
 import 'package:web_components/web_components.dart' show HtmlImport;
+import 'note_item.dart';
 
 @PolymerRegister('interaction-layer')
 class InteractionLayer extends PolymerElement {
@@ -15,8 +16,10 @@ class InteractionLayer extends PolymerElement {
 
   @Listen('tap')
   void tapped(Event event, Map detail) {
-    print("Tapped [ x: ${detail['x']}, y: ${detail['y']} ]");
-    querySelector('interaction-layer').append(new SpanElement()..text = "()"..style.position="absolute"..style.left="${detail['x']}px"..style.top="${detail['y']}px");
+    NoteItem note = new NoteItem(NoteType.QUARTER)
+    ..style.left = "${detail['x']}px"
+    ..style.top = "${detail['y']}px";
+    append(note);
   }
 
 // Optional lifecycle methods - uncomment if needed.

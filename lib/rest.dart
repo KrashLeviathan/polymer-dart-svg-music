@@ -15,8 +15,7 @@ class Rest extends PolymerElement {
 
   @Listen('tap')
   void tapped(Event event, Map detail) {
-    print("Tapped [ x: ${detail['x']}, y: ${detail['y']} ]");
-    querySelector('rest').append(new SpanElement()..text = "()"..style.position="absolute"..style.left="${detail['x']}px"..style.top="${detail['y']}px");
+    print("Tapped Rest");
   }
 
 // Optional lifecycle methods - uncomment if needed.
