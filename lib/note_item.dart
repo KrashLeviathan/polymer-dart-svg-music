@@ -6,11 +6,13 @@ library svg_polymer_playground.lib.note_item;
 import 'dart:html';
 import 'package:polymer/polymer.dart';
 import 'package:web_components/web_components.dart' show HtmlImport;
-import 'svg-library.dart';
+import 'package:svg_polymer_playground/svg-library.dart';
+import 'package:svg_polymer_playground/music-library.dart';
 
 @PolymerRegister('note-item')
 class NoteItem extends PolymerElement {
   NoteType type;
+  SvgNote svgNote;
   NoteModifier modifier;
   List<NoteDecorator> decorators;
 
@@ -19,33 +21,14 @@ class NoteItem extends PolymerElement {
   factory NoteItem(NoteType type) {
     NoteItem note = new Element.tag('note-item') as NoteItem;
     note.type = type;
-    note._setSvg(type);
+    note.svgNote = new SvgNote(note, type);
+    note.svgNote.initWithProps({});
     return note;
   }
 
   @Listen('tap')
   void tapped(Event event, Map detail) {
     print("Tapped note-item");
-  }
-
-  void _setSvg(NoteType type) {
-    switch (type) {
-      case NoteType.WHOLE:
-        break;
-      case NoteType.HALF:
-        break;
-      case NoteType.QUARTER:
-        setInnerHtml(SvgRender.quarterNote('quarter-note-1'), validator: new SvgValidator());
-        break;
-      case NoteType.EIGHTH:
-        break;
-      case NoteType.SIXTEENTH:
-        break;
-      case NoteType.THIRTYSECOND:
-        break;
-      case NoteType.SIXTYFOURTH:
-        break;
-    }
   }
 
 // Optional lifecycle methods - uncomment if needed.
@@ -70,16 +53,4 @@ class NoteItem extends PolymerElement {
 //  /// property observers set up, event listeners attached).
 //  ready() {
 //  }
-}
-
-enum NoteType {
-  WHOLE, HALF, QUARTER, EIGHTH, SIXTEENTH, THIRTYSECOND, SIXTYFOURTH
-}
-
-enum NoteModifier {
-  FLAT, SHARP, NATURAL
-}
-
-enum NoteDecorator {
-  DOT
 }

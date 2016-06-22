@@ -6,6 +6,7 @@ library svg_polymer_playground.lib.interaction_layer;
 import 'dart:html';
 import 'package:polymer/polymer.dart';
 import 'package:web_components/web_components.dart' show HtmlImport;
+import 'package:svg_polymer_playground/music-library.dart';
 import 'note_item.dart';
 
 @PolymerRegister('interaction-layer')
