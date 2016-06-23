@@ -1,22 +1,25 @@
 // Copyright (c) 2016, Nathan Karasch. All rights reserved. Use of this source code
 // is governed by a BSD-style license that can be found in the LICENSE file.
-@HtmlImport('staff.html')
-library svg_polymer_playground.lib.staff;
+@HtmlImport('staff_element.html')
+library svg_polymer_playground.lib.staff_element;
 
 import 'dart:html';
 import 'package:polymer/polymer.dart';
 import 'package:web_components/web_components.dart' show HtmlImport;
+import 'package:svg_polymer_playground/svg-library.dart';
 
-@PolymerRegister('staff')
-class Staff extends PolymerElement {
+@PolymerRegister('staff-element')
+class StaffElement extends PolymerElement {
+  SvgStaff svgStaff;
 
-  /// Constructor used to create instance of Staff.
-  Staff.created() : super.created();
+  /// Constructors used to create instance of StaffElement.
+  StaffElement.created() : super.created();
 
-  @Listen('tap')
-  void tapped(Event event, Map detail) {
-    print("Tapped [ x: ${detail['x']}, y: ${detail['y']} ]");
-    querySelector('staff').append(new SpanElement()..text = "()"..style.position="absolute"..style.left="${detail['x']}px"..style.top="${detail['y']}px");
+  factory StaffElement() {
+    StaffElement staff = new Element.tag('staff-element') as StaffElement;
+    staff.svgStaff = new SvgStaff(staff);
+    staff.svgStaff.initWithProps({});
+    return staff;
   }
 
 // Optional lifecycle methods - uncomment if needed.

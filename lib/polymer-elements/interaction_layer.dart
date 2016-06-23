@@ -7,7 +7,8 @@ import 'dart:html';
 import 'package:polymer/polymer.dart';
 import 'package:web_components/web_components.dart' show HtmlImport;
 import 'package:svg_polymer_playground/music-library.dart';
-import 'note_item.dart';
+import 'note_element.dart';
+import 'staff_element.dart';
 
 @PolymerRegister('interaction-layer')
 class InteractionLayer extends PolymerElement {
@@ -17,7 +18,7 @@ class InteractionLayer extends PolymerElement {
 
   @Listen('tap')
   void tapped(Event event, Map detail) {
-    NoteItem note = new NoteItem(NoteType.QUARTER)
+    NoteElement note = new NoteElement(NoteType.QUARTER)
     ..style.left = "${detail['x']}px"
     ..style.top = "${detail['y']}px";
     append(note);
@@ -26,9 +27,12 @@ class InteractionLayer extends PolymerElement {
 // Optional lifecycle methods - uncomment if needed.
 
 //  /// Called when an instance of interaction-layer is inserted into the DOM.
-//  attached() {
-//    super.attached();
-//  }
+  attached() {
+    super.attached();
+    print('attached');
+    StaffElement staff = new StaffElement();
+    append(staff);
+  }
 
 //  /// Called when an instance of interaction-layer is removed from the DOM.
 //  detached() {

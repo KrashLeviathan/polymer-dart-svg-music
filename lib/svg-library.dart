@@ -8,3 +8,4 @@ part 'svg/svg-notes.dart';
 part 'svg/svg-rests.dart';
 part 'svg/svg-renderable.dart';
 part 'svg/svg-validator.dart';
+part 'svg/svg-staff.dart';

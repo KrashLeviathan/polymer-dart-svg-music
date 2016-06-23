@@ -15,7 +15,7 @@ abstract class SvgRenderable {
 
   SvgRenderable(this._element, this.pixelWidth, this._vbMinX, this._vbMinY, this._vbWidth, this._vbHeight);
 
-  String _svgAttributes(String body) => '''
+  String _svgElement(String body) => '''
   <svg
      width="${pixelWidth * scale}px"
      viewBox="$_vbMinX $_vbMinY $_vbWidth $_vbHeight"
@@ -26,7 +26,7 @@ abstract class SvgRenderable {
   ''';
 
   void _render(String svgBody) {
-    String innerHtml = _svgAttributes(svgBody);
+    String innerHtml = _svgElement(svgBody);
     _element.setInnerHtml(innerHtml, validator: new SvgValidator());
   }
 
