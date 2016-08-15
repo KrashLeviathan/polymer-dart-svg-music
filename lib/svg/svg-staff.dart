@@ -47,4 +47,10 @@ class SvgStaff extends SvgRenderable {
        id="path-${idNumber}-${index}"
        d="m -214,${413 + (spacing * index)} 876,0" />
   ''';
+
+
+  // Simple Line
+//  <svg height="210" width="500">
+//  <line x1="0" y1="0" x2="200" y2="200" style="stroke:rgb(255,0,0);stroke-width:2" />
+//  </svg>
 }
