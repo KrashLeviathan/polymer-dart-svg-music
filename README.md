@@ -1,6 +1,8 @@
-# svg_polymer_playground
+# Polymer Dart SVG Music
 
-A web app built using polymer.dart.
+A web app built using polymer.dart to display music notes in SVG format.
+
+Under development!
 
 ## Resources:
 
